@@ -80,4 +80,5 @@ dependencies {
     compile project(":model")
     compile project(":security")
     compile project(":websocketfeed")
+    compile project(":bot")
 }
